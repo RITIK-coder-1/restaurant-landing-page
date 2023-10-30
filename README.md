@@ -7,7 +7,7 @@ A visually appealing landing page for a restaurant. This project showcases a sim
 - [Features](#features)
 - [Usage](#usage)
 - [Skills/Tools](#skillstools)
-[Contact](#contact)
+- [Contact](#contact)
 
 ## Demo
 
